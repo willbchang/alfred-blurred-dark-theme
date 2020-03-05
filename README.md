@@ -1,21 +1,18 @@
-# Alfred Star Guardian Theme
-A theme with comfortable.
+# Alfred Blurred Dark Theme
+[Download](https://raw.githubusercontent.com/willbchang/alfred-blurred-dark-theme/master/Blurred%20Dark.alfredappearance)
+A theme with comfortable. 
 
-## Requirement
-[Fira Code Font](https://github.com/tonsky/FiraCode)
+Recommend using `Inconsolata`.
 
 ```bash
 brew tap homebrew/cask-fonts
-brew cask install font-fira-code
+brew cask install font-inconsolata
 ```
 
-[Install Theme](https://raw.githubusercontent.com/willbchang/alfred-pink-theme/master/Star%20Guardian.alfredappearance)
+You can also download the system font version here: https://www.alfredapp.com/extras/theme/vr35d5q305/
 
-![Screen Shot](https://user-images.githubusercontent.com/14329786/66798599-238f0900-ef41-11e9-84cf-35f0747016bb.png)
-
-
-## Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Screen Shot
+![Alfred Blurred Dark Theme](Alfred%20Blurred%20Dark.png)
 
 ## License
 [MIT](LICENSE)
