@@ -26,8 +26,8 @@
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 5,
-      "background" : "#34343600",
+      "backgroundSelected" : "#EC509DE0",
+      "paddingHorizontal" : 8,
       "spacing" : 4,
       "text" : {
         "size" : 34,
@@ -35,7 +35,8 @@
         "font" : "System Light",
         "color" : "#FEFFFEFF"
       },
-      "backgroundSelected" : "#EC509DE0"
+      "background" : "#34343600",
+      "paddingVertical" : 5
     },
     "window" : {
       "color" : "#26262A6E",
