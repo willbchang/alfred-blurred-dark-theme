@@ -3,7 +3,7 @@
     "result" : {
       "textSpacing" : 5,
       "subtext" : {
-        "size" : 14,
+        "size" : 12,
         "colorSelected" : "#FFFFFFCC",
         "font" : "SF Mono",
         "color" : "#FFFFFF66"
