@@ -5,7 +5,7 @@
       "subtext" : {
         "size" : 14,
         "colorSelected" : "#FFFFFFCC",
-        "font" : "Inconsolata",
+        "font" : "SF Mono",
         "color" : "#FFFFFF66"
       },
       "shortcut" : {
